@@ -1,0 +1,26 @@
+#blokus {
+	width: 500px;
+    text-align: center;
+    font-size: 160px;
+}
+
+#motivation {
+	width: 1000px;
+    text-align: center;
+    font-size: 160px;
+}
+
+#scope {
+    text-align: center;
+    font-size: 30px;
+}
+
+#definedRules {
+    text-align: center;
+    font-size: 30px;
+}
+
+#client-server {
+    text-align: center;
+    font-size: 30px;
+}
