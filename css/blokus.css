@@ -1,5 +1,5 @@
 #blokus {
-	width: 500px;
+	width: 600px;
     text-align: center;
     font-size: 160px;
 }
@@ -20,7 +20,17 @@
     font-size: 30px;
 }
 
-#client-server {
+#clientServer {
     text-align: center;
     font-size: 30px;
+}
+#gameRules {
+    font-size: 30px;
+    text-align: center;
+}
+
+p.title {
+    text-align: center;
+	font-size:50px;
+	font-weight: bold;
 }
