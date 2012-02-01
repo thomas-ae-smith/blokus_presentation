@@ -5,9 +5,7 @@
 }
 
 #motivation {
-	width: 1000px;
     text-align: center;
-    font-size: 160px;
 }
 
 #scope {
@@ -33,4 +31,39 @@ p.title {
     text-align: center;
 	font-size:50px;
 	font-weight: bold;
+}
+
+#arch {
+	width: 600px;
+    text-align: center;
+    font-size: 90px;
+}
+
+#client {
+    text-align: center;
+    font-size: 30px;
+}
+#rest {
+    text-align: center;
+    font-size: 30px;
+}
+#server {
+    text-align: center;
+    font-size: 30px;
+}
+
+#uris {
+    text-align: center;
+}
+
+#restJSON {
+    text-align: center;
+}
+
+#AJAX {
+    text-align: center;
+}
+
+#status {
+    text-align: center;
 }
