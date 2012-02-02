@@ -98,6 +98,9 @@ p.title {
     text-align: center;
 }
 
+#arrow1, #arrow2 {
+	width:205px;
+}
 .arrow {
 	width:205px;
 }
