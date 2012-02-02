@@ -13,19 +13,25 @@
     font-size: 30px;
 }
 
-#definedRules {
-    text-align: center;
-    font-size: 30px;
-}
-
 #clientServer {
     text-align: center;
     font-size: 30px;
 }
 #gameRules {
     font-size: 30px;
-    text-align: center;
+    /*text-align: center;*/
 }
+#gameRules li {
+	font-size:20px;
+	width:400px;
+}
+
+#gameRules img {
+	float: right;
+	width: 330px;
+	height: 330px;
+}
+
 
 p.title {
     text-align: center;
@@ -90,4 +96,40 @@ p.title {
 
 #underscore{
     text-align: center;
+}
+
+.arrow {
+	width:205px;
+}
+
+.triangle-left {
+	position:absolute;
+	left:-11px;
+	top:0px;
+	border-color: transparent green transparent transparent;
+	border-style: solid;
+	border-width: 20px;
+	width: 0;
+	height: 0;
+}
+
+.triangle-right {
+	position:absolute;
+	left:200px;
+	top:0px;
+	border-color: transparent transparent transparent green;
+	border-style: solid;
+	border-width: 20px;
+	width: 0;
+	height: 0;
+}
+
+.line {
+	position:absolute;
+	top:13px;
+	left:16px;
+	border-color: green;
+	border-style: solid;
+	border-width: 6px;
+	width:180px;
 }
